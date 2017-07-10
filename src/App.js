@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-import GDMap from './components/Map';
-
+import GDMap from './components/map/ShwoMap';
+import G2 from './components/chart/G2';
 
 class App extends Component {
   render() {
@@ -21,4 +21,4 @@ class App extends Component {
   }
 }
 
-export default GDMap;
+export default G2;
