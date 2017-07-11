@@ -6,6 +6,8 @@ import GDMap from './components/map/ShwoMap';
 import G2 from './components/chart/G2';
 import PirChart from './components/chart/PieChart';
 
+import PirChart from './components/chart/PieChart';
+
 class App extends Component {
   render() {
     return (
