@@ -6,7 +6,7 @@ import GDMap from './components/map/ShwoMap';
 import G2 from './components/chart/G2';
 import PirChart from './components/chart/PieChart';
 
-import PirChart from './components/chart/PieChart';
+import MiniRouter from './components/Min-React-Router-Dom';
 
 class App extends Component {
   render() {
@@ -24,4 +24,4 @@ class App extends Component {
   }
 }
 
-export default PirChart;
+export default MiniRouter;
